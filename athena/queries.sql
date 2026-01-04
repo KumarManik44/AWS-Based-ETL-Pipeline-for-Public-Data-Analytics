@@ -1,0 +1,1 @@
+SELECT * FROM weather_data.processed_weather LIMIT 10;

@@ -1,0 +1,1 @@
+Monthly budget set to $5 with alerts at 80% usage.
